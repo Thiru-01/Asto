@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096814988539",
+    "project_id": "asto-b3ec1",
+    "storage_bucket": "asto-b3ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096814988539:android:8383efaede7b625c09f45e",
+        "android_client_info": {
+          "package_name": "com.example.asto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096814988539-9vt1j4vds4dfodb6hdivnj48hnnuv0cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmcER3QLnecrR_3tFQJDDxl--PCw1K3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096814988539-9vt1j4vds4dfodb6hdivnj48hnnuv0cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
