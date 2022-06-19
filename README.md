@@ -1,16 +1,27 @@
-# asto
+# Asto
 
-A new Flutter project.
+<img src="screenshots/icon.png" width=70 />
 
-## Getting Started
+## Description
+IoT Application developed using embedded C and Flutter with minimalistic UI.
 
-This project is a starting point for a Flutter application.
+### Packages
+| **Name**          | **Version** |
+|-------------------|-------------|
+| firebase_core     | 1.14.0      |
+| firebase_database | 9.0.9       |
+| get               | 4.6.1       |
+| google_fonts      | 2.3.1       |
+| rive              | 0.8.4       |
 
-A few resources to get you started if this is your first Flutter project:
+### Demo video
+![Demo](/screenshots/gifImage.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Sceenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### Icon Screen
+![1](/screenshots/1.jpg)
+##### 1 Screen
+![2](/screenshots/2.jpg)
+##### 2 Screen
+![3](/screenshots/3.jpg)
