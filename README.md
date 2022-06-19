@@ -3,7 +3,7 @@
 <img src="screenshots/icon.png" width=70 />
 
 ## Description
-IoT Application developed using embedded C and Flutter with minimalistic UI.
+IoT Application developed using embedded C for NodeMCU and Flutter with minimalistic UI.
 
 ### Packages
 | **Name**          | **Version** |
